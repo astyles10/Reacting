@@ -1,0 +1,27 @@
+Add website to Github: https://www.geeksforgeeks.org/how-to-host-a-website-on-github-for-free/
+Weather station python module: https://pypi.org/project/AixWeather/
+
+Learning Todos:
+- Learn how to use react-router
+- Learn how to use vite
+- Maybe learn typescript?
+
+Project Todos:
+- Set up a project management board instead of littering todo lists (like this).
+
+Weather data app:
+- Draw a mockup UI for the weather data app
+- Put mockup UI through ChatGPT for a quick and dirty css framework
+  Note this depends on how much work needs to be done to correct mistakes etc.
+- Write a weather data publisher python script - TBD whether to publish to MQTT or a REST API.
+
+Virtualisation platform:
+- Write list of functions the platform should provide
+  E.g. Deploying and managing services (docker containers/VMs/LXCs)
+  Setting routing rules between services through groups.
+  User account management with allowed groups, permissions etc.
+  Log service statistics such as network traffic, CPU/RAM usage etc.
+- Draw a mockup UI for the virtualisation platform
+- Put mockup UI through ChatGPT for a quick and dirty css framework
+  Note this depends on how much work needs to be done to correct mistakes etc.
+- Get JS VNC client working.
